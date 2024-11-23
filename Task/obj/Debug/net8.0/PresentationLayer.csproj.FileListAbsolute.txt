@@ -1,0 +1,322 @@
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+E:\Github Repos\Task\Task\bin\Debug\net8.0\appsettings.Development.json
+E:\Github Repos\Task\Task\bin\Debug\net8.0\appsettings.json
+E:\Github Repos\Task\Task\bin\Debug\net8.0\PresentationLayer.exe
+E:\Github Repos\Task\Task\bin\Debug\net8.0\PresentationLayer.deps.json
+E:\Github Repos\Task\Task\bin\Debug\net8.0\PresentationLayer.runtimeconfig.json
+E:\Github Repos\Task\Task\bin\Debug\net8.0\PresentationLayer.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\PresentationLayer.pdb
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Azure.Core.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Azure.Identity.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.ClientModel.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ApplicationLayer.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\DataAccessLayer.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ApplicationLayer.pdb
+E:\Github Repos\Task\Task\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+E:\Github Repos\Task\Task\obj\Debug\net8.0\staticwebassets.build.json
+E:\Github Repos\Task\Task\obj\Debug\net8.0\staticwebassets.development.json
+E:\Github Repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Github Repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.build.PresentationLayer.props
+E:\Github Repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+E:\Github Repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+E:\Github Repos\Task\Task\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Github Repos\Task\Task\obj\Debug\net8.0\scopedcss\bundle\PresentationLayer.styles.css
+E:\Github Repos\Task\Task\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.dll
+E:\Github Repos\Task\Task\obj\Debug\net8.0\refint\PresentationLayer.dll
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.pdb
+E:\Github Repos\Task\Task\obj\Debug\net8.0\PresentationLayer.genruntimeconfig.cache
+E:\Github Repos\Task\Task\obj\Debug\net8.0\ref\PresentationLayer.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Humanizer.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.CodeDom.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Github Repos\Task\Task\bin\Debug\net8.0\Bogus.dll
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.dll
+D:\MyProjects\Task\Task\obj\Debug\net8.0\refint\PresentationLayer.dll
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.pdb
+D:\MyProjects\Task\Task\bin\Debug\net8.0\appsettings.Development.json
+D:\MyProjects\Task\Task\bin\Debug\net8.0\appsettings.json
+D:\MyProjects\Task\Task\bin\Debug\net8.0\PresentationLayer.staticwebassets.endpoints.json
+D:\MyProjects\Task\Task\bin\Debug\net8.0\PresentationLayer.exe
+D:\MyProjects\Task\Task\bin\Debug\net8.0\PresentationLayer.deps.json
+D:\MyProjects\Task\Task\bin\Debug\net8.0\PresentationLayer.runtimeconfig.json
+D:\MyProjects\Task\Task\bin\Debug\net8.0\PresentationLayer.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\PresentationLayer.pdb
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Azure.Core.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Azure.Identity.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Bogus.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Humanizer.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.ClientModel.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.CodeDom.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ApplicationLayer.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\DataAccessLayer.dll
+D:\MyProjects\Task\Task\bin\Debug\net8.0\ApplicationLayer.pdb
+D:\MyProjects\Task\Task\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProjects\Task\Task\obj\Debug\net8.0\scopedcss\bundle\PresentationLayer.styles.css
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets.build.json
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets.development.json
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.build.PresentationLayer.props
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MyProjects\Task\Task\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MyProjects\Task\Task\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+D:\MyProjects\Task\Task\obj\Debug\net8.0\PresentationLayer.genruntimeconfig.cache
+D:\MyProjects\Task\Task\obj\Debug\net8.0\ref\PresentationLayer.dll

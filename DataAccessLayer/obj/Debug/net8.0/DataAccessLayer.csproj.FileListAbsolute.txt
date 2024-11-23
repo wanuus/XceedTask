@@ -1,0 +1,28 @@
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Github Repos\Task\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+E:\Github Repos\Task\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+E:\Github Repos\Task\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+E:\Github Repos\Task\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+E:\Github Repos\Task\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\MyProjects\Task\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\MyProjects\Task\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\MyProjects\Task\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\MyProjects\Task\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\MyProjects\Task\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
