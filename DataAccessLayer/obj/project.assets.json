@@ -4517,11 +4517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProjects\\Task0002\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\MyProjects\\Task0002\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProjects\\Task0002\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProjects\\Task0002\\Task\\PresentationLayer.csproj": {}
+    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\Task\\PresentationLayer.csproj": {}
   },
   "projects": {
-    "D:\\MyProjects\\Task0002\\ApplicationLayer\\ApplicationLayer.csproj": {
+    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\ApplicationLayer\\ApplicationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProjects\\Task0002\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\ApplicationLayer\\ApplicationLayer.csproj",
         "projectName": "ApplicationLayer",
-        "projectPath": "D:\\MyProjects\\Task0002\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\ApplicationLayer\\ApplicationLayer.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProjects\\Task0002\\ApplicationLayer\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\ApplicationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\MyProjects\\Task0002\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\MyProjects\\Task0002\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\MyProjects\\Task0002\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProjects\\Task0002\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\MyProjects\\Task0002\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProjects\\Task0002\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,14 +190,14 @@
         }
       }
     },
-    "D:\\MyProjects\\Task0002\\Task\\PresentationLayer.csproj": {
+    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\Task\\PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProjects\\Task0002\\Task\\PresentationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\Task\\PresentationLayer.csproj",
         "projectName": "PresentationLayer",
-        "projectPath": "D:\\MyProjects\\Task0002\\Task\\PresentationLayer.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\Task\\PresentationLayer.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProjects\\Task0002\\Task\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -218,8 +218,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\MyProjects\\Task0002\\ApplicationLayer\\ApplicationLayer.csproj": {
-                "projectPath": "D:\\MyProjects\\Task0002\\ApplicationLayer\\ApplicationLayer.csproj"
+              "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\ApplicationLayer\\ApplicationLayer.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CS\\CS-Level-4\\1St_Semster\\elwg3\\XceedTask\\ApplicationLayer\\ApplicationLayer.csproj"
               }
             }
           }
